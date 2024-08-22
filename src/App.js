@@ -1,8 +1,8 @@
 
 import "./App.css";
 
-import Main from'./Components/Hero';
-import Main from'./Components/Navbar';
+import Hero from'./Components/Hero';
+import Navbar from'./Components/Navbar';
 function App() {
   return (
     <>

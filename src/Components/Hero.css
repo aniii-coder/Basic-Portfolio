@@ -25,14 +25,14 @@ body{
     border: 0px solid wheat;
 }
 .lt{
-    border: 0px solid white;
+    border: px solid white;
     height: 70%;
     width: 100%;
     margin-left: 15px;
     
 }
 .lt-up{
-    border: 0px solid white;
+    border: px solid white;
     height: 25%;
     font-weight: bolder;
     display: flex;
@@ -43,11 +43,11 @@ body{
 .lt-mid{
     border: 0px solid white;
     height: 200px;
-    width: 800px;
+    width: 700px;
     overflow-y: scroll;
     -ms-overflow-style: none;
     scrollbar-width: none;
-    margin-top: 2px;
+    margin-top: 5px;
     /* margin-bottom: 2px; */
     font-size: 20px;
     

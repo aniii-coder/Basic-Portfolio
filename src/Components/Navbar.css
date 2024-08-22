@@ -20,7 +20,7 @@ body{
     border-radius: 0px 0px 10px 10px;
     background-color: #1B1B1B;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     color: aliceblue;
     margin-left: 15px;
@@ -33,11 +33,11 @@ body{
     display: flex;
     justify-content: space-around;
     gap: 25px;
-    border: px solid white;
+    border: 0px solid white;
 }
 
 .rt-part{
-    border: px solid white;
+    border: 1px solid white;
     display: flex;
     justify-content: space-around;
     gap: 25px;

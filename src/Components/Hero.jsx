@@ -10,7 +10,7 @@ export const Hero = () => {
             
             <div className="lt-up" style={{ marginLeft: '5px' }}>Aniket V. Singh</div>
             <div className="lt-mid"><p >Greetings! I am <b>Aniket V. Singh</b>, a recent Computer Science graduate from Mumbai University. My passion lies in web development, and I’ve gained proficiency in HTML, CSS, JavaScript, and various web frameworks through my coursework and personal projects. I’m excited to contribute my skills and creativity to building beautiful and functional websites</p></div>
-            <div className="lt-down"><button >Let's get started ></button></div>
+            <div className="lt-down"><button >Let's get started </button></div>
             
           </div>
         </div>
@@ -35,3 +35,4 @@ export const Hero = () => {
           </>
   )
 }
+export default Hero;
